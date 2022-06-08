@@ -7,3 +7,6 @@
 [submodule "epic-react-04-adv-react-hooks"]
 	path = epic-react-04-adv-react-hooks
 	url = https://github.com/spfave/epic-react-04-adv-react-hooks.git
+[submodule "epic-react-09-bookshelf"]
+	path = epic-react-09-bookshelf
+	url = https://github.com/spfave/epic-react-09-bookshelf.git
